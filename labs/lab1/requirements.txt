@@ -1,7 +1,0 @@
-dvc
-panda
-scikit-learn
-joblib
-jupyter
-jupyter_contrib_nbextensions
-ipykernel
